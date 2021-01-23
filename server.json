@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { "id": "t-shirts", "title": "T-Shirts" },
+    { "id": "pants", "title": "Pants" },
+    { "id": "socks", "title": "Socks" }
+  ],
+  "products": [
+    { "id": 1, "title": "T-Shirt Front-end", "price": 79.9, "category_id": "t-shirts", "slug": "t-shirt-front-ends"},
+    { "id": 2, "title": "T-Shirt Charpolin", "price": 69.9, "category_id": "t-shirts", "slug": "t-shirt-csharpolin"},
+    { "id": 3, "title": "Black Pant back-end", "price": 129.9, "category_id": "pants", "slug": "black-pant-back-end"},
+    { "id": 4, "title": "Blue Pant of the React", "price": 109.9, "category_id": "pants", "slug": "blue-pant-react"},
+    { "id": 5, "title": "Blue Socks of the React", "price": 12.9, "category_id": "socks", "slug": "blue-socks-react"},
+    { "id": 6, "title": "Red Socks of the React", "price": 11.9, "category_id": "socks", "slug": "red-socks-react"}
+  ],
+  "recommended": [
+    { "id": 1, "title": "T-Shirt Front-end", "price": 79.9, "category_id": "t-shirts", "slug": "t-shirt-front-ends"},
+    { "id": 2, "title": "Blue Pant of the React", "price": 109.9, "category_id": "pants", "slug": "blue-pant-react"}
+  ]
+}

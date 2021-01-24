@@ -10,6 +10,6 @@ export default createGlobalStyle`
     background: #121214;
     color: #fff;
     font-size: 12px;
-    font-family: 'Fira Code', monospace;
+    font-family: 'Roboto', monospace;
   }
 `
